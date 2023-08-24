@@ -21,7 +21,7 @@ int main() {
     Insert(73);
     Insert(15);
 
-    std::cout << "Elements in the vector: ";
+    std::cout << "Elementos in the vector: ";
     for (int i = 0; i < gnCount; ++i) 
         std::cout << gpVect[i] << " ";
 
